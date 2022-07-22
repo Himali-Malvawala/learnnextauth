@@ -1,1 +1,1 @@
-## This project is amde using NextAuth.js for authentication and TailwindCSS for styling.
+## This project is made using NextAuth.js for authentication and TailwindCSS for styling.
